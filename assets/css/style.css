@@ -27,13 +27,8 @@ p{
 .iconSet{
 	margin-right: 15px;
 }
-.mainSec{
-	border: solid white;	
-	border-width: 0 20px;
-}
-.asideSec{
-	border: solid white;
-	border-width: 0 20px;
+.mainSec, .asideSec{
+	padding: 0 20px;
 }
 .footer{
 	position: absolute;
@@ -46,7 +41,7 @@ p{
 .textCenter{
 	text-align: center;
 }
-.martinVertical{
+.marginVertical{
 	margin: 10px 0;
 }
 label,
